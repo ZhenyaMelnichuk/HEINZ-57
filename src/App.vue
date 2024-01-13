@@ -1,8 +1,6 @@
 <template>
-	<main>
-		<div class="main-container">
-			<RouterView />
-		</div>
+	<main class="bg-secondary-yellow min-h-[100vh] font-Anek overflow-hidden">
+		<RouterView />
 	</main>
 </template>
 
@@ -10,10 +8,6 @@
 export default {};
 </script>
 
-<style lang="less">
+<style>
 @import '@/assets/styles/style';
-
-main {
-	min-height: calc(var(--header-height) + 100vh);
-}
 </style>

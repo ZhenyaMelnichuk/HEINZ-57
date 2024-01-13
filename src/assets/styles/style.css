@@ -1,0 +1,14 @@
+@import './fonts/fonts';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 1vw;
+	min-height: 100vh;
+}
