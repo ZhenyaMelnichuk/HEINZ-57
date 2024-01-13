@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# HEINZ 57 
+Stack: 
+- Vue 3 
+- Vite
+- Tailwind
 
-This template should help get you started developing with Vue 3 in Vite.
+## Project Setup
 
-## Recommended IDE Setup
+```sh
+npm install
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+![localhost_5173_ (1)](https://github.com/ZhenyaMelnichuk/HEINZ-57/assets/95444560/a3bf6ba8-4431-4085-8903-e13111c68a14)
